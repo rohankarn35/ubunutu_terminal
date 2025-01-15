@@ -13,6 +13,14 @@
 
 ---
 
+---
+
+> **Note:**  
+> This package is designed to work on **macOS, Linux, Windows, and Web platforms only.**  
+> It is **not compatible** with **Android** or **iOS.**
+
+---
+
 ## ✨ Features
 
 <table>
