@@ -7,7 +7,8 @@
 [![Likes](https://img.shields.io/pub/likes/ubunutu_terminal?style=flat-square)](https://pub.dev/packages/ubunutu_terminal)
 
 <div align="center">
-  <img src="(https://github.com/rohankarn35/ubunutu_terminal/blob/main/image.png)" alt="Ubuntu Terminal Preview" width="600"/>
+  <img src="(![image](https://github.com/user-attachments/assets/f3fe0889-f91c-4847-ac3f-ccea7cfd62ad)
+)" alt="Ubuntu Terminal Preview" width="600"/>
   
   *A sleek, customizable Ubuntu-style terminal emulator for Flutter applications*
 </div>
