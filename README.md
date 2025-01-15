@@ -2,7 +2,7 @@
 
 [![Pub Version](https://img.shields.io/pub/v/ubunutu_terminal.svg)](https://pub.dev/packages/ubunutu_terminal)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Flutter Platform](https://img.shields.io/badge/Platform-Flutter-blue.svg)](https://flutter.dev)
+[![Supported Platforms](https://img.shields.io/badge/Platforms-Web,%20macOS,%20Linux,%20Windows-blue.svg)](https://flutter.dev)
 [![Likes](https://img.shields.io/pub/likes/ubunutu_terminal?style=flat-square)](https://pub.dev/packages/ubunutu_terminal)
 
 <div align="center">
