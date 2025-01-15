@@ -1,7 +1,6 @@
 # 🖥️ Ubuntu Terminal for Flutter
 
 [![Pub Version](https://img.shields.io/pub/v/ubunutu_terminal.svg)](https://pub.dev/packages/ubunutu_terminal)
-[![Build Status](https://github.com/rohankarn35/ubunutu_terminal/workflows/CI/badge.svg)](https://github.com/rohankarn35/ubunutu_terminal/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Flutter Platform](https://img.shields.io/badge/Platform-Flutter-blue.svg)](https://flutter.dev)
 [![Likes](https://img.shields.io/pub/likes/ubunutu_terminal?style=flat-square)](https://pub.dev/packages/ubunutu_terminal)
